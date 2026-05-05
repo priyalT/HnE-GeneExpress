@@ -1,7 +1,7 @@
 [project]
-name = "genevis"
+name = "hne-geneexpress"
 version = "0.1.0"
-description = "Histology-Guided Gene Imputation System"
+description = "Histology-Guided Gene Expression Imputation System"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
