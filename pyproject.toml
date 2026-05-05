@@ -1,0 +1,26 @@
+[project]
+name = "genevis"
+version = "0.1.0"
+description = "Histology-Guided Gene Imputation System"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "flake8>=7.3.0",
+    "flake8-docstrings>=1.7.0",
+    "mypy>=1.20.2",
+    "networkx>=3.6.1",
+    "numpy>=2.4.4",
+    "pandas>=3.0.2",
+    "pillow>=12.2.0",
+    "pytest>=9.0.3",
+    "pytest-cov>=7.1.0",
+    "pytest-mock>=3.15.1",
+    "rich-click>=1.9.7",
+    "ruff>=0.15.12",
+    "scanpy>=1.12.1",
+    "scipy>=1.17.1",
+    "squidpy>=1.8.1",
+    "timm>=1.0.26",
+    "torch>=2.11.0",
+    "torchvision>=0.26.0",
+]
